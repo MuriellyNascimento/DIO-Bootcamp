@@ -1,3 +1,3 @@
-# DIO Bootcamp Everis FullStack Developer
+# DIO Bootcamp Front End
 
-## Repositório dedicado aos projetos propostos no Bootcamp da DIO
+Repositório dedicado aos projetos propostos no Bootcamp da DIO
